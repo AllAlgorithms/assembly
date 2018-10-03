@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="200" height="300" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Motorola_6800_Assembly_Language.png" >
+	<img width="400" height="270" src="https://cdn.abranhe.com/projects/algorithms/logos/assembly.svg" >
 	<br>
 	<br>
 	<img src="https://cdn.abranhe.com/projects/algorithms/algorithms.svg" width="400px">
@@ -45,3 +45,10 @@ To the extent possible under law, [Carlos Abraham](https://go.abranhe.com/github
 
 
 [mit-license]: https://cdn.abraham.gq/projects/algorithms/mit-license.png
+
+<div align="center">
+	<a href="https://github.com/abranhe/algorithms">
+		<img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="50px">
+	</a>
+  <br>
+</div>
